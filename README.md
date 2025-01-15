@@ -85,6 +85,6 @@ This project explores the application of machine learning and statistical analys
 
 ### Requirements
 - **Languages and Tools:** Python 3.x, Scikit-learn, Pandas, Matplotlib, Seaborn.
-- **Dataset:** Provided in `data/` directory.
+
 
 
